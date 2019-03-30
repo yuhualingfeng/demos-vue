@@ -1,0 +1,8 @@
+{
+  "name": "vue-cli-project",
+  "version": "1.0.0",
+  "description": "vlue-cli-demo-project",
+  "main": "index.js",
+  "author": "huahseng",
+  "license": "MIT"
+}
